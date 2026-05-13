@@ -12,7 +12,7 @@ This project includes:
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
 exports/
@@ -33,39 +33,35 @@ exports/
 
 ---
 
-# Design System
+## Design System
 
-![Design System](exports/png/Design%20System.png)
-
----
-
-# Wireframes
-
-![Wireframes](exports/png/Wireframes.png)
+<img src="exports/png/Design%20System.png" width="200"/>
 
 ---
 
-# Final UI Screens
+## Wireframes
 
-## Login Screen
-
-![Login Screen](exports/png/Login%20Screen.png)
+<img src="exports/png/Wireframes.png" width="420"/>
 
 ---
 
-## Home Screen
+## Final UI Screens
 
-![Home Screen](exports/png/Home%20Screen.png)
+### Login Screen
+
+<img src="exports/png/Login%20Screen.png" width="320"/>
+
+### Home Screen
+
+<img src="exports/png/Home%20Screen.png" width="320"/>
+
+### Course Detail Screen
+
+<img src="exports/png/Course%20Detail%20Screen.png" width="320"/>
 
 ---
 
-## Course Detail Screen
-
-![Course Detail Screen](exports/png/Course%20Detail%20Screen.png)
-
----
-
-# Features
+## Features
 
 - Mobile-first design
 - Minimal UI hierarchy
@@ -80,7 +76,7 @@ exports/
 
 ---
 
-# Tools
+## Tools
 
 - Figma
 - Git
@@ -88,6 +84,6 @@ exports/
 
 ---
 
-# Author
+## Author
 
 Uğur Ege Çelik
